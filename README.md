@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @Tuneer
-- 👀 I’m interested in creative work
-- 🌱 I’m currently learning kotlin and jetpack compose
-- 💞️ I’m looking to collaborate on java and kotlin projects
-- 📫 How to reach me mail on mahatpuretuneer@gmail.com
-
 
 <h3 align="left">About Me</h3>
 
-Hello! 👋, I'm Jaykishan Sewak, a mobile technology enthusiast with **9 years of experience** in the dynamic world of mobile app development. My journey began in the realm of Android development with Java, and as soon as Kotlin was introduced, I embraced it wholeheartedly, recognizing its potential for building robust and elegant mobile solutions. In addition to my proficiency in Kotlin, I've also delved into Dart for Flutter app development, broadening my expertise in cross-platform development.
+Hello! 👋, I'm Tuneer Mahatpure, a mobile technology enthusiast with **7 years of experience** in the dynamic world of mobile app development. My journey began in the realm of Android development with Java, and as soon as Kotlin was introduced, I embraced it wholeheartedly, recognizing its potential for building robust and elegant mobile solutions. In addition to my proficiency in Kotlin, I've also delved into React for React native app development, broadening my expertise in cross-platform development.
 
 <h3 align="left">Diverse Domain Expertise</h3>
 
