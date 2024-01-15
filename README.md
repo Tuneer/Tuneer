@@ -46,7 +46,7 @@ I am passionate about creating high-quality mobile solutions that not only meet 
 
 <br/>
 <br/>
-- 🌱 I’m currently learning **Flutter, JetPeck Comose**
+- 🌱 I’m currently learning **Flutter, JetPeck Compose**
 
 - 📫 How to reach me **mahatpuretuneer@gmail.com**
 
