@@ -35,11 +35,8 @@ I am passionate about creating high-quality mobile solutions that not only meet 
     
 </p>
 
-### 📊 My Github Stats
-
   <br/>
-    <a href="https://github.com/tuneer/github-readme-stats"><img alt="Tuneer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuneer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tuneer/github-readme-stats"><img alt="Tuneer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuneer&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tuneer/github-readme-stats"><img width="500" alt="Tuneer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuneer&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -53,9 +50,9 @@ I am passionate about creating high-quality mobile solutions that not only meet 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuneer&show_icons=true&locale=en&layout=compact" alt="tuneer" /></p>
 
 <!---
 Tuneer/Tuneer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+ <a href="https://github.com/tuneer/github-readme-stats"><img alt="Tuneer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuneer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 --->
