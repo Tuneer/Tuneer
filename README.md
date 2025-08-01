@@ -1,7 +1,9 @@
 
 <h3 align="left">About Me</h3>
 
-Hello! 👋 I'm Tuneer Mahatpure, a mobile technology enthusiast with 7 years of experience in the dynamic world of mobile app development. My journey began in the realm of Android development with Java, and as soon as Kotlin was introduced, I embraced it wholeheartedly, recognizing its potential for building robust and elegant mobile solutions. Alongside my expertise in Android and cross-platform development with React Native, I also have 3 years of experience in iOS development using Swift and SwiftUI, which has broadened my ability to create seamless and native experiences across mobile platforms.
+Hello! 👋 I'm Tuneer Mahatpure, a mobile technology enthusiast with 7+ years of experience in the ever-evolving world of software development. I’ve built and led the development of 10+ Android apps, 5+ Java desktop applications, and several cross-platform mobile solutions using React Native, Flutter, and Jetpack Compose.
+
+My journey began with Android (Java), and I embraced Kotlin early on for its expressiveness and power. Over time, I extended my expertise to iOS development, gaining 3+ years of experience with Swift and SwiftUI, crafting beautiful and responsive native experiences for Apple platforms.
 
 <h3 align="left">Diverse Domain Expertise</h3>
 
@@ -9,26 +11,62 @@ Throughout my career, I've had the privilege of working on a wide range of proje
 
 <h3 align="left">Multilingual Proficiency</h3>
 
-I'm well-versed in several programming languages, including Java, Kotlin, Swift, and JavaScript/React Native. My skill set also encompasses modern UI toolkits like Jetpack Compose and SwiftUI, empowering me to choose the most suitable technology stack for each project's requirements, thereby ensuring optimal performance and maintainability.
+I'm fluent in:
 
- <h3 align="left">Version Control and CI/CD Mastery</h3>
+  Java (7+ yrs)
+  
+  Kotlin (6+ yrs)
+  
+  Swift/SwiftUI (3+ yrs)
+  
+  React Native (3+ yrs)
+  
+  Jetpack Compose (3+ yrs)
+  
+  Flutter (2+ yrs)
+  
+  React.js & Next.js (Web & Admin panels)
 
-Managing code and ensuring seamless collaboration are essential aspects of modern development. I bring expertise in version control systems such as Git, GitLab, Mercurial, and Bitbucket. Moreover, I have hands-on experience in setting up and maintaining CI/CD pipelines using tools like Git Actions and Jenkins, which streamlines the development process and secures a consistent and efficient workflow.
+This range allows me to adapt quickly and choose the best tech stack per project.
 
-<h3 align="left">SOLID Principles Advocate</h3>
+ <h3 align="left">Tools & DevOps Mastery</h3>
 
-I am a strong advocate of the SOLID principles, which guide the design of scalable and maintainable software solutions. By adhering to these principles, I ensure that the code I develop is not only easy to understand and modify but also robust enough to scale with future requirements.
+Version Control: Git, GitHub, GitLab, Bitbucket, Mercurial
 
-<h3 align="left">Project Management and Agile Methodologies</h3>
+CI/CD: GitHub Actions, Jenkins
 
-In terms of project management, I am proficient in using tools like JIRA and Monday to facilitate effective project tracking, task management, and team collaboration. With extensive experience in Agile methodologies and sprint planning, I am well-prepared to adapt to evolving project requirements and deliver high-quality results through iterative progress.
+Project Tools: JIRA, Monday.com, Postman, Android Studio, Xcode, VS Code
 
-I am passionate about creating high-quality mobile solutions that not only meet, but exceed client expectations. With a commitment to staying at the forefront of technology and a strong foundation in best practices, I look forward to taking on new challenges and contributing to innovative projects in the ever-evolving field of mobile technology. Let's connect and build amazing things together! 🚀
+Testing & Debugging: Unit tests, Crashlytics, Custom Logging
+
+<h3 align="left">🛠 Architecture & Best Practices</h3>
+
+Architecture: MVVM, SOLID principles
+
+UI/UX: Native, Compose, SwiftUI, Custom views
+
+Plugins/Libraries: Retrofit, Hilt, BLE, Firebase, Twilio, MQTT, EventBus
+
+Database: Room, CoreData, SQLite, Firebase, MySQL
+
+
+<h3 align="left">👥 Team & Leadership</h3>
+
+As a Tech Lead, I manage cross-functional teams (5+ members), review code, define architecture, handle sprints, and ensure delivery excellence. I’ve even designed complete apps from scratch for both Android and iOS simultaneously.
+
+<h3 align="left">🎯 Passion & Drive</h3>
+
+I’m passionate about building seamless mobile solutions that scale and solve real-world problems. From RPM patient kits to POS apps, I aim for robust code, clean architecture, and great user experience.
+
+Let’s connect and build something amazing together! 🚀
+GitHub | <a href="https://www.linkedin.com/in/tuneer-mahatpure/">LinkedIn </a> | <a href="mailto:mahatpuretuneer@gmail.com">mahatpuretuneer@gmail.com</a>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuneer&label=Profile%20views&color=0e75b6&style=flat" alt="tuneer" /> </p>
 
 <p align="left">
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
