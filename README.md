@@ -1,29 +1,29 @@
 
 <h3 align="left">About Me</h3>
 
-Hello! 👋, I'm Tuneer Mahatpure, a mobile technology enthusiast with **7 years of experience** in the dynamic world of mobile app development. My journey began in the realm of Android development with Java, and as soon as Kotlin was introduced, I embraced it wholeheartedly, recognizing its potential for building robust and elegant mobile solutions. In addition to my proficiency in Kotlin, I've also delved into React for React native app development, broadening my expertise in cross-platform development.
+Hello! 👋 I'm Tuneer Mahatpure, a mobile technology enthusiast with 7 years of experience in the dynamic world of mobile app development. My journey began in the realm of Android development with Java, and as soon as Kotlin was introduced, I embraced it wholeheartedly, recognizing its potential for building robust and elegant mobile solutions. Alongside my expertise in Android and cross-platform development with React Native, I also have 3 years of experience in iOS development using Swift and SwiftUI, which has broadened my ability to create seamless and native experiences across mobile platforms.
 
 <h3 align="left">Diverse Domain Expertise</h3>
 
-Throughout my career, I've had the privilege of working on a wide range of projects spanning diverse domains, including **ecommerce**, **medical**, and **banking**. This exposure has equipped me with a comprehensive understanding of industry-specific challenges and requirements, enabling me to craft tailored solutions that meet the unique needs of each sector.
+Throughout my career, I've had the privilege of working on a wide range of projects spanning diverse domains, including ecommerce, medical, and banking. This exposure has equipped me with a comprehensive understanding of industry-specific challenges and requirements, enabling me to craft tailored solutions that meet the unique needs of each sector.
 
 <h3 align="left">Multilingual Proficiency</h3>
 
-I'm well-versed in several programming languages, including **Java**, **Kotlin**, **React native**,**Jetpack Compose** and **React**, which enables me to choose the most suitable language for each project's requirements, ensuring optimal performance and maintainability.
+I'm well-versed in several programming languages, including Java, Kotlin, Swift, and JavaScript/React Native. My skill set also encompasses modern UI toolkits like Jetpack Compose and SwiftUI, empowering me to choose the most suitable technology stack for each project's requirements, thereby ensuring optimal performance and maintainability.
 
  <h3 align="left">Version Control and CI/CD Mastery</h3>
 
-Managing code and collaboration are essential aspects of modern development, and I bring expertise in version control systems like **Git**, **GitLab**,**Mercurial**, and **Bitbucket** to the table. Additionally, I have experience implementing **CI/CD pipelines** using Git Actions, Jenkins, streamlining the development process and ensuring a consistent and efficient workflow.
+Managing code and ensuring seamless collaboration are essential aspects of modern development. I bring expertise in version control systems such as Git, GitLab, Mercurial, and Bitbucket. Moreover, I have hands-on experience in setting up and maintaining CI/CD pipelines using tools like Git Actions and Jenkins, which streamlines the development process and secures a consistent and efficient workflow.
 
 <h3 align="left">SOLID Principles Advocate</h3>
 
-For project development, I am a strong advocate of the **SOLID principles**, which guide the design of maintainable and scalable software. These principles help create code that is easy to understand, modify, and extend, which is crucial for long-term project success.
+I am a strong advocate of the SOLID principles, which guide the design of scalable and maintainable software solutions. By adhering to these principles, I ensure that the code I develop is not only easy to understand and modify but also robust enough to scale with future requirements.
 
 <h3 align="left">Project Management and Agile Methodologies</h3>
 
-In terms of project management, I am well-versed in using tools like **JIRA** and **Monday** to facilitate efficient project tracking, task management, and collaboration. I am experienced in **Agile** methodologies and sprint planning, which enables me to adapt to changing project requirements and deliver results in a highly organized and iterative manner.
+In terms of project management, I am proficient in using tools like JIRA and Monday to facilitate effective project tracking, task management, and team collaboration. With extensive experience in Agile methodologies and sprint planning, I am well-prepared to adapt to evolving project requirements and deliver high-quality results through iterative progress.
 
-I am passionate about creating high-quality mobile solutions that not only meet but exceed client expectations. With a commitment to staying at the forefront of technology and a strong foundation in best practices, I look forward to taking on new challenges and contributing to innovative projects in the ever-evolving field of mobile technology. Let's connect and build amazing things together! 🚀
+I am passionate about creating high-quality mobile solutions that not only meet, but exceed client expectations. With a commitment to staying at the forefront of technology and a strong foundation in best practices, I look forward to taking on new challenges and contributing to innovative projects in the ever-evolving field of mobile technology. Let's connect and build amazing things together! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuneer&label=Profile%20views&color=0e75b6&style=flat" alt="tuneer" /> </p>
 
